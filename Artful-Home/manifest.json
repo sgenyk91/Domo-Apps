@@ -1,0 +1,15 @@
+{
+  "name": "Artful Home",
+  "version": "1.0.0",
+  "size": {
+    "width": 5,
+    "height": 4
+  },
+  "mapping": [
+    {
+      "dataSetId": "37c077ef-3281-476f-9a3b-32516fdf9330",
+      "alias": "chart",
+      "fields": []
+    }
+  ]
+}

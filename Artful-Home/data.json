@@ -1,0 +1,50 @@
+{
+  "artful": [
+    {
+      "artTeamId": "123456789",
+      "artist": "Comfy USA",
+      "styleId": "987654321",
+      "sku": "P08530-P00399",
+      "pageLinkWithImage": "https://www.URLHERE.com",
+      "itemTitle": "Jode Dress",
+      "variant": "Navy (22W-24W)",
+      "catalogId": 1,
+      "price": 168,
+      "revenue": 1512,
+      "dateFirstActivated": "03/11/2016",
+      "quantity": 9,
+      "categoryFine": "Dresses",
+      "returnedCost": 0,
+      "returnedUnits": 0,
+      "catelogDrop": "2015 - Winter Jan",
+      "setSku": "P085530-P00399",
+      "circulation": 331756,
+      "shippingPrice": 12,
+      "returnedPercentage": 2,
+      "daysToShip": 6
+    },
+    {
+      "artTeamId": "987654321",
+      "artist": "Comfy USA",
+      "styleId": "987654321",
+      "sku": "P08530-P00399",
+      "pageLinkWithImage": "https://www.URLHERE.com",
+      "itemTitle": "Jode Dress",
+      "variant": "Navy (22W-24W)",
+      "catalogId": 1,
+      "price": 168,
+      "revenue": 1512,
+      "dateFirstActivated": "03/11/2016",
+      "quantity": 9,
+      "categoryFine": "Dresses",
+      "returnedCost": 0,
+      "returnedUnits": 0,
+      "catelogDrop": "2015 - Winter Jan",
+      "setSku": "P085530-P00399",
+      "circulation": 331756,
+      "shippingPrice": 12,
+      "returnedPercentage": 2,
+      "daysToShip": 6
+    }
+  ]
+}
